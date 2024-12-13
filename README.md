@@ -1,3 +1,5 @@
+<image src="Captura.png" alt="Captura de la aplicación desplegada">
+
 # Prerequisitos
 
 - contar con ollama (<https://ollama.com/download>)
