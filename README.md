@@ -1,9 +1,10 @@
 # Prerequisitos
 
-contar con ollama (<https://ollama.com/download>)
-contar con las Build Tools (<https://visualstudio.microsoft.com/es/visual-cpp-build-tools/>)
-tener un modelo cargado en ollama (<https://ollama.com/search>)
-Nota en el caso concreto de el equipo usado fue *llama3.2-vision*
+- contar con ollama (<https://ollama.com/download>)
+- contar con las Build Tools (<https://visualstudio.microsoft.com/es/visual-cpp-build-tools/>)
+- tener un modelo cargado en ollama (<https://ollama.com/search>)
+
+#### Nota en el caso concreto de el equipo usado fue *llama3.2-vision*
 
 ## Uso de otro modelo
 
